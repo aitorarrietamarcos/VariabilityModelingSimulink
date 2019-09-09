@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+E:\Dropbox (MGEP)\RepositoriosGitHub\VariabilityModelingSimulinkTutorial\WP_Eclipse\.metadata\.plugins\org.eclipse.jdt.core

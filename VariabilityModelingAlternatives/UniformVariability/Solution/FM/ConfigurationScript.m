@@ -3,9 +3,6 @@ clc;
 addpath('E:\Dropbox (MGEP)\RepositoriosGitHub\VariabilityModelingSimulinkTutorial\Manipulation')
 
 
-Addition = Simulink.Variant ('add ==1');
-Substraction = Simulink.Variant ('add ==0');
-
 configurationFile ='Variant00001.config';
 
 %conf = read_configuration(configurationFile);

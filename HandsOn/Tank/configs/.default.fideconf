@@ -1,0 +1,13 @@
+# Lists all features from the model with manual (first digit) and automatic (second digit) selection
+# 0 = deselected, 1 = selected, 2 = undefined
+21Tank
+21Control
+12Maintenance
+02Emergency
+21Type
+12Manual
+12Automatic
+21Actuators
+21FillGate
+21EmptyGate
+02Alarm
